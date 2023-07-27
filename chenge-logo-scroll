@@ -1,0 +1,21 @@
+/*CSS ELEMENTOR MUDANÇA DE LOGO NO SCROLL <id css: header*/
+
+div#top-bar-wrap {
+display: none!important;
+}
+
+#header.elementor-sticky--effects {
+background-color: #fff;
+transition: all .5s ease;
+box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+#header.elementor-sticky--effects .logo img {
+content:url('url DA IMAGEM') !important;
+}
+
+#header.elementor-sticky--effects .roblox li a {
+color: #ec8c08!important;
+}
